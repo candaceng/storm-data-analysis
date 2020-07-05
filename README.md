@@ -5,7 +5,7 @@
 
 Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
 
-This project involves exploring the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database. This database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage.
+This project involves exploring the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database. This database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage. The data was cleaned up to be able to plot the results in R. Click [here](https://rpubs.com/candaceng/analyzing-storm-data) for the process.
 
 
 #### **Data**
@@ -22,5 +22,11 @@ The events in the database start in the year 1950 and end in November 2011. In t
 
 #### **Questions Addressed**
 
-- Across the United States, which types of events (as indicated in the 𝙴𝚅𝚃𝚈𝙿𝙴 variable) are most harmful with respect to population health?
-- Across the United States, which types of events have the greatest economic consequences?
+1. Across the United States, what are most harmful with respect to population health? 
+2. Across the United States, which types of events have the greatest economic consequences?
+
+
+#### **Conclusion**
+The above questions can be visualized by the plots created:
+1. [Health Impact](https://github.com/candaceng/storm-data-analysis/blob/master/figures/fig1.png)
+2. [Economic Impact](https://github.com/candaceng/storm-data-analysis/blob/master/figures/fig2.png)
