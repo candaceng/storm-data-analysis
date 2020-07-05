@@ -10,6 +10,8 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
 
 #### **Data**
 
+You can download the data set used in this analysis [here](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2)
+
 There is some documentation of the database available. Here you will find how some of the variables are constructed/defined.
 
 - National Weather Service [Storm Data Documentation](https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf)
