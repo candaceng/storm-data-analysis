@@ -2,7 +2,6 @@
 title: "Analyzing U.S. Storm Data"
 author: "Candace Ng"
 date: "July 5, 2020"
-output: html_document
 ---
 
 ## Synopsis
